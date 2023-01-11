@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smitdudhat
 - 👀 I’m interested in Front-end
-- 🌱 I’m currently learning Codind and Animation
+- 🌱 I’m currently learning Coding and Animation
 - 💞️ I’m looking to collaborate on .....
 - 📫 Just Click below link for more info and reach me.
 
