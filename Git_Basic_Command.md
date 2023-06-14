@@ -35,3 +35,13 @@
 <div>
     <p>git remote add origin (URL)</p>
   </div>
+
+<div>
+  <b>Git Clone Without Folder</b>
+</div>
+  <div>
+    <p>git init .
+    <p>git remote add origin git@github.com:user/repo.git</p>
+    <p>git fetch origin</p>
+    <p>git checkout master</p>
+  </div>
